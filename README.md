@@ -1,9 +1,9 @@
 ### Hi there, I'm Jordan 👋🏻🧑🏻‍💻
 Year 2 Computer Science Undergraduate at NUS
 
-[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorrdansoh&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorrdansoh&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorrdansoh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorrdansoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jorrdansoh/jorrdansoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
