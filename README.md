@@ -1,7 +1,9 @@
 ### Hi there, I'm Jordan 👋🏻🧑🏻‍💻
 I'm a Year 3 Computer Science Undergraduate at the National University of Singapore (NUS).
 
+<!--
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorrdansoh&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **jorrdansoh/jorrdansoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
